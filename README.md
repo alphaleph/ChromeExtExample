@@ -1,4 +1,4 @@
 ChromeExtExample
 ================
 
-Examples from Chrome Extension Tutorials
+Examples from Chrome Extension Tutorial. Credits to Adam Pash.
